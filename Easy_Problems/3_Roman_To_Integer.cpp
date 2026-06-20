@@ -1,3 +1,14 @@
+/*
+Info:
+    Runtime:
+        0 ms,
+        Beats: 100%
+
+    Memory:
+        10.08 MB,
+        Beats: 86.47%
+*/
+
 #include <vector>
 
 class Solution {
